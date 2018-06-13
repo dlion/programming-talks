@@ -683,7 +683,7 @@ approachable than it actually is, and that is a good thing.
 * [Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg) [00:17:17] by **Alan Shreve** (2015)
 * [The Error of Our Ways](https://www.youtube.com/watch?v=IiGXq3yY70o) [00:49:44] by **Kevlin Henney** (2016)
 * [Small Is Beautiful](https://www.youtube.com/watch?v=B3b4tremI5o) [01:07:02] by **Kevlin Henney** (2016)
-* [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney** (2016)
+- [X] [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney** (2016) 
 * [Scalable is Awesome, Literally!](https://www.youtube.com/watch?v=iquZl-CUR_U) [00:43:48] by **Garrett Smith** (2015)
 * [Boundaries](https://youtu.be/eOYal8elnZk) [00:30:19] by **Gary Bernhardt** (2015)
 * [Requests Under The Hood](https://www.youtube.com/watch?v=ptbCIvve6-k) [00:31:37] by **Cory Benfield** (2017)
