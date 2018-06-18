@@ -171,7 +171,7 @@ approachable than it actually is, and that is a good thing.
 * [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) [00:23:56] by **Rob Pike** (2016)
 * [Go](https://www.youtube.com/watch?v=PTZqkyivnHk) [00:38:18] by **Rob Pike** (2015)
 * [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ) [00:18:54] by **Dave Cheney** (2016)
-* [Three fallacies of dependencies](https://www.youtube.com/watch?v=yi5A3cK1LNA) [00:20:38] by **Blake Mizerany** (2014)
+- [X] [Three fallacies of dependencies](https://www.youtube.com/watch?v=yi5A3cK1LNA) [00:20:38] by **Blake Mizerany** (2014)
 * [Idiomatic Go Tricks](https://www.youtube.com/watch?v=yeetIgNeIkc) [00:27:56] by **Mat Ryer** (2016)
 * [Program your next server in Go](https://www.youtube.com/watch?v=5bYO60-qYOI) [01:02:05] by **Sameer Ajmani** (2016)
 * [Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns) [00:26:49] by **Keith Randall** (2016)
