@@ -430,7 +430,7 @@ approachable than it actually is, and that is a good thing.
 * [The S.O.L.I.D. Principles of Agile OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) [01:23:35] by **Robert C. Martin** (way more interesting than it sounds) (2014)
 * [Whence Complexity?](https://www.youtube.com/watch?v=l_tULSeO9yg) [00:55:32] by **Michael Nygard** (2013)
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) [00:46:39] by **Erik Meijer** (2014)
-* [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) [00:29:53] by **Andrew T. Baker** (2015)
+- [X] [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) [00:29:53] by **Andrew T. Baker** (2015)
 * [Big Code: Developer Infrastructure at Facebook's Scale](https://www.youtube.com/watch?v=X0VH78ye4yY) [00:46:21] by **Bryan O'Sullivan, Christian Legnitto & Katie Coons** (2015)
 * [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) [00:55:30] by **Dan North** (2014)
 * [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) [00:55:36] by **Erik Meijer** (2015)
