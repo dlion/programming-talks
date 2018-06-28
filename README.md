@@ -320,7 +320,7 @@
 
 #### Miscellaneous
 * [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt**
-[X] [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:29:16] by **Gary Bernhardt**
+- [X] [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:29:16] by **Gary Bernhardt**
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (2007)
 * [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke** (2014)
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
@@ -333,7 +333,7 @@
 #### Thoughts on the Industry/Community
 * [PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) [00:35:51] by **Jacob Kaplan-Moss** (2015)
 * [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) [00:31:07] by **Andrew Godwin** (2015)
-* [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) [00:19:45] by **Brian J. Brennan** (not technical, but very important) (2014)
+- [X] [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) [00:19:45] by **Brian J. Brennan** (not technical, but very important) (2014)
 * [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova** (2016)
 * [Software, Faster](https://www.youtube.com/watch?v=USc-yLHXNUg) [00:54:19] by **Dan North** (2016)
 * [It's Simple](https://www.youtube.com/watch?v=a8Re9Cvv6nU) [00:37:35] by **Adrian Cockcroft** (2016)
