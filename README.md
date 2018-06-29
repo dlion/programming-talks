@@ -540,7 +540,7 @@
 * [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk) [00:38:55] by **Kyle Daigle & Dan Schafer** (2016)
 
 #### System Architecture
-* [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert** (2014)
+- [X] [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert** (2014)
 * [Scalability at YouTube](https://youtu.be/G-lGCC4KKok?t=9m12s) [00:38:43] by **Mike Solomon** (long intro; starts at 9:12 minutes in) (2012)
 * [The Power Of UNIX](https://www.youtube.com/watch?v=7uwW20odwEk) [00:30:03] by **Dan North** (2015)
 * [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft** (2014)
