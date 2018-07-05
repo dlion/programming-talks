@@ -336,7 +336,7 @@
 - [X] [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) [00:19:45] by **Brian J. Brennan** (not technical, but very important) (2014)
 * [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova** (2016)
 * [Software, Faster](https://www.youtube.com/watch?v=USc-yLHXNUg) [00:54:19] by **Dan North** (2016)
-* [It's Simple](https://www.youtube.com/watch?v=a8Re9Cvv6nU) [00:37:35] by **Adrian Cockcroft** (2016)
+- [X] [It's Simple](https://www.youtube.com/watch?v=a8Re9Cvv6nU) [00:37:35] by **Adrian Cockcroft** (2016)
 - [X] [Common pitfalls of junior developers](https://www.youtube.com/watch?v=tYOx8mA5p2c) [00:09:37] by **Rachel Warbelow** (2015)
 * [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) [00:33:02] by **Nickolas Means** (2014)
 - [X] [“Am I Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016)
