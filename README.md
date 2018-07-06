@@ -354,7 +354,7 @@
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) [00:50:23] by **Bryan O'Sullivan** (2013)
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:01] by **Guy Steele** (2011)
 - [X] [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) [00:23:11] by **Rob Pike** (2015)
-* [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) [00:20:00] by **Evan Czaplicki** (2017)
+- [X] [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) [00:20:00] by **Evan Czaplicki** (2017)
 
 #### Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg** (2013)
